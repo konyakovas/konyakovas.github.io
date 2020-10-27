@@ -121,7 +121,7 @@
 
 * .promo {
   min-height: 800px;
-  background: url("/src/css/img/bg/2-layers.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/2-layers.png") center center/cover no-repeat;
   padding: 150px 0 135px 0;
 }
 
@@ -288,7 +288,7 @@
 * .mobile {
   min-height: 864px;
   padding: 48px 0 79px 0;
-  background: url("/src/css/img/bg/mobile_bg.jpg") center center/cover no-repeat;
+  background: url("../src/css/img/bg/mobile_bg.jpg") center center/cover no-repeat;
 }
 
 * .mobile .row {
@@ -305,27 +305,27 @@
 }
 
 * .mobile_item_1 {
-  background: url("/src/css/img/bg/1.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/1.png") center center/cover no-repeat;
 }
 
 * .mobile_item_2 {
-  background: url("/src/css/img/bg/2.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/2.png") center center/cover no-repeat;
 }
 
 * .mobile_item_3 {
-  background: url("/src/css/img/bg/3.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/3.png") center center/cover no-repeat;
 }
 
 * .mobile_item_4 {
-  background: url("/src/css/img/bg/4.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/4.png") center center/cover no-repeat;
 }
 
 * .mobile_item_5 {
-  background: url("/src/css/img/bg/5.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/5.png") center center/cover no-repeat;
 }
 
 * .mobile_item_6 {
-  background: url("/src/css/img/bg/6.png") center center/cover no-repeat;
+  background: url("../src/css/img/bg/6.png") center center/cover no-repeat;
 }
 
 * .mobile_item_subtitle {
@@ -393,7 +393,7 @@
   position: relative;
   min-height: 895px;
   padding: 57px 0 138px 0;
-  background: url("/src/css/icons/UberX/down.png") center center/cover no-repeat;
+  background: url("../src/css/icons/UberX/down.png") center center/cover no-repeat;
 }
 
 * .choice_img {
@@ -461,7 +461,7 @@
   top: 3px;
   width: 21px;
   height: 20px;
-  background: url("/src/css/icons/conditions/good.png") center center/cover no-repeat;
+  background: url("../src/css/icons/conditions/good.png") center center/cover no-repeat;
 }
 
 * .require_descr {
@@ -477,14 +477,14 @@
 }
 
 * .require .warning .require_list li:before {
-  background: url("/src/css/icons/conditions/bad.png") center center/cover no-repeat;
+  background: url("../src/css/icons/conditions/bad.png") center center/cover no-repeat;
 }
 
 * .world {
   position: relative;
   min-height: 717px;
   padding: 49px 0;
-  background: url("/src/css/img/bg/world.jpg") center center/cover no-repeat;
+  background: url("../src/css/img/bg/world.jpg") center center/cover no-repeat;
 }
 
 * .world_link {
