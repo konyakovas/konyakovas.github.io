@@ -121,7 +121,7 @@
 
 * .promo {
   min-height: 800px;
-  background: url("../src/css/img/bg/2-layers.png") center center/cover no-repeat;
+  background: url("img/bg/2-layers.png") center center/cover no-repeat;
   padding: 150px 0 135px 0;
 }
 
